@@ -5,10 +5,10 @@ Before using it create your API_KEY and past it in the js code in the 1st line (
 so that you can get access to the server.
 
 ==>How to create API_KEY:-
-            1.Go to https://ai.google.dev/gemini-api/docs/api-key.
-            2.Click on "Get a Gemini API key in Google AI Studio".
-            3.Click on Create API KEY.
-            4.Now copy your API_KEY and past it in the 1st line of the Javascript code 
+1.Go to https://ai.google.dev/gemini-api/docs/api-key.
+2.Click on "Get a Gemini API key in Google AI Studio".
+3.Click on Create API KEY.
+4.Now copy your API_KEY and past it in the 1st line of the Javascript code 
 
 ==>Code Explanation<==
 
